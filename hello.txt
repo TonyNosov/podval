@@ -1,0 +1,10 @@
+echo "Hello, repo!";
+
+function () {
+	if echo ()
+	die;
+}
+
+function () {
+	vardump;
+}
